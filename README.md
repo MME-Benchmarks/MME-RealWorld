@@ -17,7 +17,7 @@
 ---
 
 ## 🔥 News
-* **`2025.10.21`** 🌟 InternVL-3.5, Qwen2.5-VL, Kimi-VL, Mimo-VL, Qwen2.5-Omni have used our MME-RealWorld as the benchmark of high-resolution multimodal perception.
+* **`2025.10.21`** 🌟 [InternVL-3.5](https://arxiv.org/abs/2508.18265), [Qwen2.5-VL](https://arxiv.org/abs/2502.13923), [Kimi-VL](https://arxiv.org/abs/2504.07491), [Mimo-VL](https://arxiv.org/abs/2506.03569), [Qwen2.5-Omni](https://arxiv.org/abs/2503.20215) have used our MME-RealWorld as the benchmark of high-resolution multimodal perception.
 * **`2025.03.04`** 🌟 MME-RealWorld has been accepted by ICLR 2025 and is supported by [Model Scope](https://modelscope.cn/datasets/yifanzhang/MME-RealWorld)!
 * **`2024.11.14`** 🌟 MME-RealWorld now has a [lite version](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld-Lite) (50 samples per task, or all if fewer than 50) for inference acceleration, which is also supported by VLMEvalKit and Lmms-eval.
 * **`2024.11.11`** 🌟 [Awaker2.5-VL-10B](https://github.com/MetabrainAGI/Awaker) by [Metabrain AGI](https://www.metabrainagi.com/) currently holds the top position on our leaderboard. It is also the first model with 10 billion parameters to achieve a passing performance (60.8%). For more details, visit our [leaderboard](https://mme-realworld.github.io/home_page.html#leaderboard).
